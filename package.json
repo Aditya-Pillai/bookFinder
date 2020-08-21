@@ -1,0 +1,16 @@
+{
+  "name": "bookfinder",
+  "version": "1.0.0",
+  "description": "Making book search engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Aditya Pillai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "save": "^2.4.0"
+  }
+}
